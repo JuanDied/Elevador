@@ -15,8 +15,9 @@ def estado(i, arr, map, dir):
 
         if ingresado not in arr:  #si ya lo pidieron, no es necesario agregarlo
             arr.append(ingresado) # lo agregamos 
-
-        print(f'piso ingresado { ingresado } -> {arr}')  #indicamos los pisos que siguen 
+        
+        if ingresado is not None:
+            print(f'piso ingresado { ingresado } -> {arr}')  #indicamos los pisos que siguen 
 
 
 

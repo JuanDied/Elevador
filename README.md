@@ -1,6 +1,16 @@
 # Elevador
-En este ejercicio simularemos el funcionamiento de un elevandor en un edificio de 29 pisos.
-Se implementa con python 3.10
+Se implementa con python 3.10 El siguiente ejercicio en el que simulamos el funcionamiento de un elevandor en un edificio de 29 pisos.
+
+Con los siguente datos de entrada: 
+
+Arreglo de pisos: [5, 29, 13, 10]
+
+Piso inicial de ejecución: 4
+
+Pisos ingresados: {5:2, 29: 10, 13: 1, 10:1}
+
+Sentido: Subiendo
+
 
 # Cómo ejecutar
 Se debe instalar python previamente.
